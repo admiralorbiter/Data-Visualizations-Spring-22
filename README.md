@@ -4,6 +4,8 @@ Here is where we will store all the data visualization work that students comple
 # First Project - Sankey Diagrams
 Example code [Google Sankey](https://developers.google.com/chart/interactive/docs/gallery/sankey)
 
+[You can use this to start coding your project.](https://jsfiddle.net/api/post/library/pure/)
+
 *Data for First Example*
 
 Graduates (ISD)	867
